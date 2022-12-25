@@ -11,11 +11,48 @@
 <Strong>📧Email📧</Strong><br>ashleyha@berkeley.edu<br>
 </p>
 
-- 👩🏼‍💻 Hi, I’m @ashley-ha!
-- 🌱 I’m interested in machine learning, business analytics, NLP, & predictive & language modeling
-- 📄 I’m currently learning through code implementation of deep learning research papers
-- 🧠 I’m looking to collaborate on code implementation, NLP research & teaching data science techniques
-- 🤍 I'm passionate about creating stories with data & encouraging young women to spark their interest in tech!
+<br>
+
+<p align="center">
+Nice to meet you!👩‍💻<br>
+I'm Ashley.<br>
+I'm a senior at the University of California, Berkeley studying Data Science + Business and Industrial Analytics.<br>
+🌱 I’m interested in machine learning, business analytics, NLP, & predictive & language modeling<br>
+📄 I’m currently learning through code implementation of deep learning research papers<br>
+🧠 I’m looking to collaborate on code implementation, NLP research & teaching data science techniques<br>
+🤍 I'm passionate about creating stories with data & encouraging young women to spark their interest in tech!<br>
+</p>
+
+<br>
+
+<p align="center">
+    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    💡used as the main
+</p>
+
+<p align="center" display="inline-block">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p><br>
+
+<p align="center">
+    💡used at least once
+</p>
+
+<p align="center" display="inline-block">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+</p>
+<br>
+
+<div align=center>
+
+![Ashley's github stats](https://github-readme-stats.vercel.app/api?username=ashley-ha&show_icons=true)
+
 
 <!---
 ashley-ha/ashley-ha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
