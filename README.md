@@ -26,8 +26,7 @@ I'm a senior at the University of California, Berkeley studying Data Science + B
 <br>
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡used as the main
+    <Strong>My Tech Stack</Strong><br>
 </p>
 
 <p align="center" display="inline-block">
@@ -37,17 +36,9 @@ I'm a senior at the University of California, Berkeley studying Data Science + B
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-DE3412?style=for-the-badge&logo=pytorch&logoColor=white">
 </p><br>
 
-<p align="center">
-    💡used at least once
-</p>
-
-<p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-</p>
-<br>
 
 <div align=center>
 
