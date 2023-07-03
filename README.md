@@ -16,9 +16,9 @@
 <p align="center">
 Nice to meet you!👩‍💻<br>
 I'm Ashley.<br>
-I'm a senior at the University of California, Berkeley studying Data Science + Business and Industrial Analytics.<br>
+I'm a University of California, Berkeley alumni where I studied Data Science + Business and Industrial Analytics.<br>
 🌱 I’m interested in machine learning, business analytics, NLP, + predictive & language modeling<br>
-📄 I’m currently learning through code implementation of deep learning research papers<br>
+📄 I’m actively practicing code implementation of deep learning research papers<br>
 🧠 I’m looking to collaborate on code implementation, NLP research & teaching data science techniques<br>
 🤍 I'm passionate about creating stories with data & encouraging young women to spark their interest in tech!<br>
 </p>
