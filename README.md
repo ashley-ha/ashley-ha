@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=print("Ashleys")&fontSize=60&animation=fadeIn&fontAlignY=25&desc=GitHub%20&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=💬Ashley's&fontSize=60&animation=fadeIn&fontAlignY=25&desc=GitHub%20&descAlignY=51&descAlign=62)
 
 <p align="center">
     <Strong>☁️Connect with Me☁️</Strong><br><br>
