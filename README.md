@@ -4,7 +4,7 @@
     <Strong>☁️Connect with Me☁️</Strong><br><br>
     <a href="https://www.linkedin.com/in/ashleyeastman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
     <a href="https://www.medium.com/@ashleyha" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
-  <a href="https://twitter.com/ashleybeeTech" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/heyashleybee" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
     <br>
 <!--    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPgmJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
 <br><br>
@@ -14,13 +14,11 @@
 <br>
 
 <p align="center">
-Nice to meet you!👩‍💻<br>
+Hi!<br>
 I'm Ashley.<br>
-I'm a University of California, Berkeley alumni where I studied Data Science + Business and Industrial Analytics.<br>
-🌱 I’m interested in machine learning, business analytics, NLP, + predictive & language modeling<br>
-📄 I’m actively practicing code implementation of deep learning research papers<br>
-🧠 I’m looking to collaborate on code implementation, NLP research & teaching data science techniques<br>
-🤍 I'm passionate about creating stories with data & encouraging young women to spark their interest in tech!<br>
+I'm a UC Berkeley alum & I studied Data Science + Business and Industrial Analytics.<br>
+I'm currently working on building my own startup where I work as the CTO.<br>
+
 </p>
 
 <br>
