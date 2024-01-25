@@ -40,8 +40,6 @@ I'm currently working on building my own startup where I work as the CTO.<br>
 
 <div align=center>
 
-![Ashley's github stats](https://github-readme-stats.vercel.app/api?username=ashley-ha&show_icons=true)
-
 
 <!---
 ashley-ha/ashley-ha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
