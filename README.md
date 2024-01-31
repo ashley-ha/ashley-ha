@@ -17,7 +17,7 @@
 Hi!<br>
 I'm Ashley.<br>
 I'm a UC Berkeley alum & I studied Data Science + Business and Industrial Analytics.<br>
-I'm currently working on building my own startup where I work as the CTO.<br>
+I'm currently working on building my own startup.<br>
 
 </p>
 
