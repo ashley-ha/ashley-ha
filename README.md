@@ -37,6 +37,8 @@ I'm currently working on building my own startup.<br>
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </p><br>
 
+![Ashley's github stats](https://github-readme-stats.vercel.app/api?username=ashley-ha&show_icons=true)
+
 
 <div align=center>
 
