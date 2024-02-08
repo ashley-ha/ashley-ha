@@ -41,6 +41,7 @@ I'm currently working on building my own startup.<br>
 
 <div align=center>
 
+<!---
 ![Ashley's github stats](https://github-readme-stats.vercel.app/api?username=ashley-ha&show_icons=true)
 
 <!---
