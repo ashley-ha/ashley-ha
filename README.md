@@ -30,11 +30,11 @@ I'm currently working on building my own startup.<br>
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-DE3412?style=for-the-badge&logo=pytorch&logoColor=white">
-    <img src="https://img.shields.io/badge/fastapi-007396?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/tailwindcss-1572B6?style=for-the-badge&logo=tailwindcss3&logoColor=white">
-    <img src="https://img.shields.io/badge/nextjs-E34F26?style=for-the-badge&logo=nextjs&logoColor=white">
+    <img src="https://img.shields.io/badge/tailwindcss-38BDF9?style=for-the-badge&logo=tailwindcss3&logoColor=white">
+    <img src="https://img.shields.io/badge/nextjs-00000?style=for-the-badge&logo=nextjs&logoColor=white">
 </p><br>
 
 
