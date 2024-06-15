@@ -1,6 +1,6 @@
-
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=hi!%20i'm%20ashley.&fontSize=60&animation=fadeIn&fontAlignY=25&desc=welcome%20to%20my%20github%20&descAlignY=51&descAlign=62)
-
+</p>
 <p align="center">
     <Strong>☁️Connect with Me☁️</Strong><br><br>
     <a href="https://www.linkedin.com/in/ashleyeastman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
