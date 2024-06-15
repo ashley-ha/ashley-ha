@@ -34,7 +34,7 @@ I'm currently working on building my own startup.<br>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/tailwindcss-38BDF9?style=for-the-badge&logo=tailwindcss3&logoColor=white">
-    <img src="https://img.shields.io/badge/nextjs-00000?style=for-the-badge&logo=nextjs&logoColor=white">
+    <img src="https://img.shields.io/badge/nextjs-ffffff?style=for-the-badge&logo=nextjs&logoColor=black">
 </p><br>
 
 
