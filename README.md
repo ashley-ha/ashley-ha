@@ -24,7 +24,7 @@ I'm currently working on building my own startup.<br>
 <br>
 
 <p align="center">
-    <Strong>My Tech Stack</Strong><br>
+    <Strong>My Tech Stack</Strong><br> 
 </p>
 
 <p align="center" display="inline-block">
