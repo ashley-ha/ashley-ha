@@ -1,3 +1,7 @@
 a human girl,
 
-just wanting to build ai to help humans
+building ai that help humans,
+
+for Ever
+
+
