@@ -14,7 +14,6 @@
 <br>
 
 <p align="center">
-Hi!<br>
 I'm Ashley.<br>
 I'm a UC Berkeley alum & I studied Data Science + Business and Industrial Analytics.<br>
 I'm currently working on building my own startup.<br>
