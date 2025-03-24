@@ -1,6 +1,6 @@
 a human girl,
 
-building ai that help humans,
+building ai to help humans,
 
 for Ever
 
