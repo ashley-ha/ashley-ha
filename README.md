@@ -96,9 +96,17 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=14&duration=4000&pause=3000&color=C49A6C&center=true&vCenter=true&width=500&height=30&lines=%E2%9C%A7+not+all+those+who+wander+are+lost+%E2%80%94+tolkien+%E2%9C%A7;%E2%9C%A7+even+the+smallest+person+can+change+the+course+of+the+future+%E2%9C%A7;%E2%9C%A7+all+we+have+to+decide+is+what+to+do+with+the+time+given+us+%E2%9C%A7;%E2%9C%A7+there+is+some+good+in+this+world+and+it+is+worth+fighting+for+%E2%9C%A7" alt="tolkien quotes" />
+```
+$ git log --oneline --ashley
+f1b8e3a init: a human girl, building ai
+e7f2a1b feat: believe in something bigger
 
-<br/>
+$ ashley --status
+✦ compiling dreams...
+✦ building the future...
+✦ build successful ♡
+```
+
 
 ₊✩‧₊˚౨ৎ˚₊✩‧₊
 
