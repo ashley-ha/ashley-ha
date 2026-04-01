@@ -18,7 +18,11 @@
 
 </div>
 
----
+<div align="center">
+
+˚ · . ˚ · . ˚ · . 🌻 . · ˚ . · ˚ . · ˚
+
+</div>
 
 <div align="center">
 
@@ -34,14 +38,18 @@
 
 </div>
 
----
+<div align="center">
+
+˚ · . ˚ · . ˚ · . 🌻 . · ˚ . · ˚ . · ˚
+
+</div>
+
+<div align="center">
 
 <details>
 <summary>&nbsp; ₊˚⊹ <b>previous lives</b> ⊹˚₊ &nbsp; <i>(click me~)</i></summary>
 
 <br/>
-
-<div align="center">
 
 | | |
 |---|---|
@@ -51,9 +59,15 @@
 
 *every chapter led here* ₍ᐢ. .ᐢ₎
 
+</details>
+
 </div>
 
-</details>
+<div align="center">
+
+˚ · . ˚ · . ˚ · . 🌻 . · ˚ . · ˚ . · ˚
+
+</div>
 
 <div align="center">
 
@@ -63,9 +77,17 @@
 &nbsp;&nbsp;
 [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee%20☕-FFE4F0?style=flat-square&logo=buymeacoffee&logoColor=C49A6C)](https://buymeacoffee.com/ashleyha)
 
-<br/><br/>
+</div>
 
-*✧ if not now, then when ✧*
+<div align="center">
+
+˚ · . ˚ · . ˚ · . 🌻 . · ˚ . · ˚ . · ˚
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=14&duration=4000&pause=3000&color=C49A6C&center=true&vCenter=true&multiline=true&width=500&height=30&lines=%E2%9C%A7+not+all+those+who+wander+are+lost+%E2%80%94+tolkien+%E2%9C%A7;%E2%9C%A7+even+the+smallest+person+can+change+the+course+of+the+future+%E2%9C%A7;%E2%9C%A7+all+we+have+to+decide+is+what+to+do+with+the+time+given+us+%E2%9C%A7;%E2%9C%A7+there+is+some+good+in+this+world+and+it+is+worth+fighting+for+%E2%9C%A7" alt="tolkien quotes" />
 
 <br/>
 
@@ -74,5 +96,11 @@
 <br/>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="600"/>
+
+<br/>
+
+[![guestbook](https://img.shields.io/badge/sign%20my%20guestbook%20₍ᐢ.%20.ᐢ₎-FFF5E6?style=flat-square&logoColor=D4779B)](https://github.com/ashley-ha/ashley-ha/issues/1)
+&nbsp;&nbsp;
+![visitors](https://komarev.com/ghpvc/?username=ashley-ha&color=FFB3C1&style=flat-square&label=✧+visitors+✧)
 
 </div>
