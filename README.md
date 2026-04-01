@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" alt="ashley ha — building ai for humans" width="600"/>
+<img src="header.svg" alt="ashley ha" width="400"/>
 
 <br/>
 
@@ -105,6 +105,18 @@ $ ashley --status
 ✦ compiling dreams...
 ✦ building the future...
 ✦ build successful ♡
+```
+
+```
+    (\__/)  ~  hi, i'm a squirrel
+    (•ㅅ•)     and i approve
+   ＿ノ  ヽ ノ＼    of this readme
+ /　`/ ⌒Ｙ⌒ Ｙ  ヽ
+( 　(三ヽ人　 /　  |
+|　ﾉ⌒＼ ￣￣ヽ  ノ
+ヽ＿＿＿＞､＿＿_／
+     ｜( 王 ﾉ〈  (\__/)
+     /ﾐ`ー―彡\  (•ㅅ•)
 ```
 
 
