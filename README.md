@@ -24,13 +24,13 @@
 
 ### ˚₊‧ currently... ‧₊˚
 
-`building` — ai to help humans be more human ☀️
+`building` ~ ai to help humans advance
 
-`listening` — the shire & rivendell ambient 🌿
+`listening` ~ rivendell ambiance 
 
-`loving` — sunflowers, warm light, & good people 🌻
+`loving` ~ books, board games, & building 
 
-`reading` — tolkien, always tolkien ✦
+`reading` ~ prob tolkien ✦
 
 </div>
 
@@ -55,22 +55,6 @@
 
 </details>
 
----
-
-<div align="center">
-
-### ˚₊‧ tech i love ‧₊˚
-
-![TypeScript](https://img.shields.io/badge/TypeScript-FFE4F0?style=flat-square&logo=typescript&logoColor=D4779B)
-![Python](https://img.shields.io/badge/Python-FFF5E6?style=flat-square&logo=python&logoColor=C49A6C)
-![React](https://img.shields.io/badge/React-FFF9DB?style=flat-square&logo=react&logoColor=D4779B)
-![Next.js](https://img.shields.io/badge/Next.js-FFE4F0?style=flat-square&logo=next.js&logoColor=C49A6C)
-![Node.js](https://img.shields.io/badge/Node.js-FFF5E6?style=flat-square&logo=node.js&logoColor=7CB342)
-
-</div>
-
----
-
 <div align="center">
 
 ### ˚₊‧ find me ‧₊˚
@@ -80,8 +64,6 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee%20☕-FFE4F0?style=flat-square&logo=buymeacoffee&logoColor=C49A6C)](https://buymeacoffee.com/ashleyha)
 
 <br/><br/>
-
-*✧ if not me, then who ✧*
 
 *✧ if not now, then when ✧*
 
