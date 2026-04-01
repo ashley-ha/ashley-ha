@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="ashley ha" width="400"/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=40&duration=4000&pause=9999999&color=D4779B&center=true&vCenter=true&width=350&height=60&lines=ashley+ha" alt="ashley ha" />
 
 <br/>
 
