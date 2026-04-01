@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" alt="ashley ha — building ai for humans" width="800"/>
+<img src="header.svg" alt="ashley ha — building ai for humans" width="600"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=15&duration=2000&pause=800&color=D4779B&center=true&vCenter=true&width=300&lines=Frolicking...;Gooning...;Moonwalking...;Pollinating...;Shenaniganing...;Boogieing...;Canoodling...;Gallivanting...;Tomfoolering...;Vibing...;Beboppin'...;Razzle-dazzling...;Whatchamacalliting...;Skedaddling...;Flibbertigibbeting...;Sock-hopping...;Wibbling...;Discombobulating..." alt="typing svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=15&duration=2000&pause=800&color=D4779B&center=true&vCenter=true&width=300&lines=Frolicking...;Gooning...;Boogieing...;Canoodling...;Vibing...;Nesting...;Blooming...;Sprouting...;Coalescing...;Doodling...;Musing...;Noodling...;Swooping...;Simmering...;Buzzing...;Daydreaming...;Fluttering...;Twinkling...;Wandering..." alt="typing svg" />
 
 </div>
 
