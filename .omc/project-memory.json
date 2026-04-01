@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1775055738270,
+  "projectRoot": "/Users/ashley/dev/ashley-ha",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {},
+  "hotPaths": [
+    {
+      "path": "README.md",
+      "accessCount": 25,
+      "lastAccessed": 1775061696735,
+      "type": "file"
+    },
+    {
+      "path": "header.svg",
+      "accessCount": 5,
+      "lastAccessed": 1775061648823,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

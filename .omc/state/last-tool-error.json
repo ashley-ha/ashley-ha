@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"gh issue create --repo ashley-ha/ashley-ha --title \\\"₊˚⊹ guestbook ⊹˚₊\\\" --body \\\"$(cat <<'EOF'\\n## ˚₊‧ welcome to my guestbook ‧₊˚\\n\\nthanks for stopping by! leave your name and a little ...",
+  "error": "Exit code 1\nthe 'ashley-ha/ashley-ha' repository has disabled issues",
+  "timestamp": "2026-04-01T15:40:54.125Z",
+  "retry_count": 1
+}
