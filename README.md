@@ -81,8 +81,6 @@
 [![X](https://img.shields.io/badge/@ashleybchae-FFF5E6?style=flat-square&logo=x&logoColor=D4779B)](https://x.com/ashleybchae)
 &nbsp;&nbsp;
 [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee%20☕-FFE4F0?style=flat-square&logo=buymeacoffee&logoColor=C49A6C)](https://buymeacoffee.com/ashleyha)
-&nbsp;&nbsp;
-[![guestbook](https://img.shields.io/badge/sign%20my%20guestbook%20₍ᐢ.%20.ᐢ₎-FFF9DB?style=flat-square&logoColor=D4779B)](https://github.com/ashley-ha/ashley-ha/issues/1)
 
 </div>
 
@@ -106,6 +104,8 @@
 
 <br/>
 
+[![guestbook](https://img.shields.io/badge/sign%20my%20guestbook%20₍ᐢ.%20.ᐢ₎-FFF9DB?style=flat-square&logoColor=D4779B)](https://github.com/ashley-ha/ashley-ha/issues/1)
+&nbsp;&nbsp;
 ![visitors](https://komarev.com/ghpvc/?username=ashley-ha&color=FFB3C1&style=flat-square&label=✧+visitors+✧)
 
 </div>
