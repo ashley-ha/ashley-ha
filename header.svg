@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFF5E6;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FFE4F0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFF9DB;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="sunGlow" cx="50%" cy="50%" r="50%" fx="50%" fy="50%" gradientUnits="objectBoundingBox">
+      <stop offset="0%" style="stop-color:#FFE066;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#FFE066;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="280" fill="url(#sky)" rx="16"/>
+
+  <!-- Soft border -->
+  <rect width="796" height="276" x="2" y="2" fill="none" stroke="#F5C6D0" stroke-width="2" rx="14" stroke-dasharray="8,4" opacity="0.6"/>
+
+  <!-- Sun with rays -->
+  <circle cx="680" cy="60" r="36" fill="#FFE066" opacity="0.9"/>
+  <circle cx="680" cy="60" r="50" fill="#FFE066" opacity="0.15"/>
+  <circle cx="680" cy="60" r="65" fill="#FFE066" opacity="0.07"/>
+  <!-- Sun face -->
+  <circle cx="672" cy="55" r="3" fill="#E8A800"/>
+  <circle cx="688" cy="55" r="3" fill="#E8A800"/>
+  <path d="M672 66 Q680 73 688 66" stroke="#E8A800" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Sun rays -->
+  <g stroke="#FFD43B" stroke-width="2.5" stroke-linecap="round" opacity="0.5">
+    <line x1="680" y1="15" x2="680" y2="5"/>
+    <line x1="715" y1="25" x2="722" y2="18"/>
+    <line x1="725" y1="60" x2="735" y2="60"/>
+    <line x1="715" y1="95" x2="722" y2="102"/>
+    <line x1="680" y1="105" x2="680" y2="115"/>
+    <line x1="645" y1="95" x2="638" y2="102"/>
+    <line x1="635" y1="60" x2="625" y2="60"/>
+    <line x1="645" y1="25" x2="638" y2="18"/>
+  </g>
+
+  <!-- Grass/ground -->
+  <ellipse cx="400" cy="275" rx="420" ry="30" fill="#C6E8B0" opacity="0.35"/>
+
+  <!-- Sunflower 1 (left) -->
+  <g transform="translate(95, 170)">
+    <!-- Stem -->
+    <path d="M0 45 Q-5 70 -2 100" stroke="#7CB342" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+    <!-- Leaf -->
+    <ellipse cx="-14" cy="80" rx="12" ry="6" fill="#A5D66F" transform="rotate(-25 -14 80)" opacity="0.8"/>
+    <!-- Petals -->
+    <g fill="#FFD54F">
+      <ellipse cx="0" cy="-16" rx="5" ry="12" transform="rotate(0 0 0)"/>
+      <ellipse cx="0" cy="-16" rx="5" ry="12" transform="rotate(45 0 0)"/>
+      <ellipse cx="0" cy="-16" rx="5" ry="12" transform="rotate(90 0 0)"/>
+      <ellipse cx="0" cy="-16" rx="5" ry="12" transform="rotate(135 0 0)"/>
+      <ellipse cx="0" cy="-16" rx="5" ry="12" transform="rotate(180 0 0)"/>
+      <ellipse cx="0" cy="-16" rx="5" ry="12" transform="rotate(225 0 0)"/>
+      <ellipse cx="0" cy="-16" rx="5" ry="12" transform="rotate(270 0 0)"/>
+      <ellipse cx="0" cy="-16" rx="5" ry="12" transform="rotate(315 0 0)"/>
+    </g>
+    <!-- Center -->
+    <circle cx="0" cy="0" r="9" fill="#8D6E47"/>
+    <circle cx="-2" cy="-2" r="1.5" fill="#6D4C2E" opacity="0.5"/>
+    <circle cx="3" cy="1" r="1.5" fill="#6D4C2E" opacity="0.5"/>
+    <circle cx="0" cy="4" r="1.5" fill="#6D4C2E" opacity="0.5"/>
+  </g>
+
+  <!-- Sunflower 2 (smaller, left-center) -->
+  <g transform="translate(145, 190) scale(0.7)">
+    <path d="M0 40 Q3 65 0 90" stroke="#7CB342" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+    <ellipse cx="10" cy="65" rx="10" ry="5" fill="#A5D66F" transform="rotate(20 10 65)" opacity="0.8"/>
+    <g fill="#FFE082">
+      <ellipse cx="0" cy="-14" rx="4.5" ry="10" transform="rotate(0 0 0)"/>
+      <ellipse cx="0" cy="-14" rx="4.5" ry="10" transform="rotate(45 0 0)"/>
+      <ellipse cx="0" cy="-14" rx="4.5" ry="10" transform="rotate(90 0 0)"/>
+      <ellipse cx="0" cy="-14" rx="4.5" ry="10" transform="rotate(135 0 0)"/>
+      <ellipse cx="0" cy="-14" rx="4.5" ry="10" transform="rotate(180 0 0)"/>
+      <ellipse cx="0" cy="-14" rx="4.5" ry="10" transform="rotate(225 0 0)"/>
+      <ellipse cx="0" cy="-14" rx="4.5" ry="10" transform="rotate(270 0 0)"/>
+      <ellipse cx="0" cy="-14" rx="4.5" ry="10" transform="rotate(315 0 0)"/>
+    </g>
+    <circle cx="0" cy="0" r="8" fill="#8D6E47"/>
+  </g>
+
+  <!-- Sunflower 3 (right side) -->
+  <g transform="translate(710, 180) scale(0.85)">
+    <path d="M0 40 Q4 65 2 95" stroke="#7CB342" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+    <ellipse cx="-12" cy="70" rx="11" ry="5.5" fill="#A5D66F" transform="rotate(-15 -12 70)" opacity="0.8"/>
+    <g fill="#FFD54F">
+      <ellipse cx="0" cy="-15" rx="5" ry="11" transform="rotate(0 0 0)"/>
+      <ellipse cx="0" cy="-15" rx="5" ry="11" transform="rotate(45 0 0)"/>
+      <ellipse cx="0" cy="-15" rx="5" ry="11" transform="rotate(90 0 0)"/>
+      <ellipse cx="0" cy="-15" rx="5" ry="11" transform="rotate(135 0 0)"/>
+      <ellipse cx="0" cy="-15" rx="5" ry="11" transform="rotate(180 0 0)"/>
+      <ellipse cx="0" cy="-15" rx="5" ry="11" transform="rotate(225 0 0)"/>
+      <ellipse cx="0" cy="-15" rx="5" ry="11" transform="rotate(270 0 0)"/>
+      <ellipse cx="0" cy="-15" rx="5" ry="11" transform="rotate(315 0 0)"/>
+    </g>
+    <circle cx="0" cy="0" r="8.5" fill="#8D6E47"/>
+  </g>
+
+  <!-- Cute squirrel -->
+  <g transform="translate(600, 195)">
+    <!-- Tail (big fluffy) -->
+    <path d="M20 -10 Q55 -55 40 -20 Q60 -45 35 -5 Q50 -25 25 5" fill="#D4956A" opacity="0.85"/>
+    <path d="M22 -8 Q50 -48 38 -18 Q55 -38 33 -3" fill="#E0A87A" opacity="0.5"/>
+    <!-- Body -->
+    <ellipse cx="10" cy="15" rx="16" ry="20" fill="#D4956A"/>
+    <!-- Belly -->
+    <ellipse cx="6" cy="18" rx="9" ry="13" fill="#F0D5B8"/>
+    <!-- Head -->
+    <circle cx="0" cy="-8" r="14" fill="#D4956A"/>
+    <!-- Inner ear -->
+    <ellipse cx="-8" cy="-20" rx="4" ry="6" fill="#D4956A"/>
+    <ellipse cx="-8" cy="-20" rx="2.5" ry="4" fill="#F0D5B8"/>
+    <ellipse cx="5" cy="-21" rx="4" ry="6" fill="#D4956A"/>
+    <ellipse cx="5" cy="-21" rx="2.5" ry="4" fill="#F0D5B8"/>
+    <!-- Eyes -->
+    <circle cx="-5" cy="-10" r="3.5" fill="#2C1810"/>
+    <circle cx="5" cy="-10" r="3.5" fill="#2C1810"/>
+    <circle cx="-4" cy="-11" r="1.2" fill="white"/>
+    <circle cx="6" cy="-11" r="1.2" fill="white"/>
+    <!-- Nose -->
+    <circle cx="0" cy="-5" r="2" fill="#2C1810"/>
+    <!-- Smile -->
+    <path d="M-3 -2 Q0 2 3 -2" stroke="#2C1810" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+    <!-- Blush -->
+    <ellipse cx="-10" cy="-5" rx="3.5" ry="2" fill="#FFB3C1" opacity="0.5"/>
+    <ellipse cx="10" cy="-5" rx="3.5" ry="2" fill="#FFB3C1" opacity="0.5"/>
+    <!-- Little paws holding acorn -->
+    <ellipse cx="-5" cy="28" rx="5" ry="3" fill="#C48555" transform="rotate(-10 -5 28)"/>
+    <ellipse cx="5" cy="28" rx="5" ry="3" fill="#C48555" transform="rotate(10 5 28)"/>
+    <!-- Acorn -->
+    <rect x="-3" y="24" width="6" height="4" rx="2" fill="#8D6E47"/>
+    <ellipse cx="0" cy="30" rx="4.5" ry="5" fill="#B8860B"/>
+    <line x1="0" y1="22" x2="0" y2="24" stroke="#6B4226" stroke-width="1.5"/>
+  </g>
+
+  <!-- Sparkles -->
+  <g fill="#FFD700" opacity="0.6">
+    <text x="180" y="55" font-size="14">✦</text>
+    <text x="320" y="40" font-size="10">✧</text>
+    <text x="500" y="50" font-size="12">✦</text>
+    <text x="250" y="75" font-size="8">✧</text>
+    <text x="560" y="35" font-size="11">✧</text>
+    <text x="420" y="65" font-size="9">✦</text>
+  </g>
+
+  <!-- Pink sparkles -->
+  <g fill="#FFB3C1" opacity="0.5">
+    <text x="150" y="45" font-size="10">+</text>
+    <text x="480" y="42" font-size="8">+</text>
+    <text x="350" y="58" font-size="9">+</text>
+  </g>
+
+  <!-- Small floating hearts -->
+  <g fill="#F8A4BB" opacity="0.4">
+    <text x="220" y="60" font-size="11">&#9829;</text>
+    <text x="450" y="48" font-size="9">&#9829;</text>
+    <text x="580" y="55" font-size="10">&#9829;</text>
+  </g>
+
+  <!-- Main text -->
+  <text x="400" y="115" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#D4779B" font-style="italic" letter-spacing="3">
+    ashley ha
+  </text>
+
+  <!-- Subtitle -->
+  <text x="400" y="148" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#C49A6C" letter-spacing="5" opacity="0.8">
+    &#9702; building ai for humans &#9702;
+  </text>
+
+  <!-- Decorative line -->
+  <line x1="280" y1="162" x2="520" y2="162" stroke="#F5C6D0" stroke-width="1" stroke-dasharray="4,4" opacity="0.6"/>
+
+  <!-- Little butterflies -->
+  <g transform="translate(230, 185) scale(0.5)" opacity="0.6">
+    <path d="M0 0 Q-10 -12 -5 -2 Q-12 -8 0 0" fill="#FFB3C1"/>
+    <path d="M0 0 Q10 -12 5 -2 Q12 -8 0 0" fill="#FFD54F"/>
+  </g>
+  <g transform="translate(550, 175) scale(0.4)" opacity="0.5">
+    <path d="M0 0 Q-10 -12 -5 -2 Q-12 -8 0 0" fill="#FFE082"/>
+    <path d="M0 0 Q10 -12 5 -2 Q12 -8 0 0" fill="#FFB3C1"/>
+  </g>
+
+  <!-- Cloud puffs -->
+  <g opacity="0.2" fill="white">
+    <circle cx="120" cy="35" r="18"/>
+    <circle cx="140" cy="30" r="22"/>
+    <circle cx="165" cy="35" r="16"/>
+    <circle cx="480" cy="25" r="15"/>
+    <circle cx="500" cy="20" r="20"/>
+    <circle cx="520" cy="25" r="14"/>
+  </g>
+</svg>
