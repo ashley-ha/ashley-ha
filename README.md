@@ -98,11 +98,11 @@
 
 ```
 $ git log --oneline --ashley
-f1b8e3a init: a human girl, building ai
-e7f2a1b feat: believe in something bigger
+f1b8e3a init: human girl, building ai
+e7f2a1b feat: believe in something bigger than ourselves
 
 $ ashley --status
-✦ compiling dreams...
+✦ compiling...
 ✦ building the future...
 ✦ build successful ♡
 ```
