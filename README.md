@@ -54,7 +54,7 @@
 |---|---|
 | 𓀤 | national champion gymnast |
 | ᯓ ✈︎ | flight attendant |
-| [+..••] | self proclaimed pro gamer |
+| [+..••] | semi pro gamer |
 
 *every chapter led here* ₍ᐢ. .ᐢ₎
 
