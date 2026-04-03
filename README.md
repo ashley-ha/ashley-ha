@@ -36,11 +36,11 @@
 
 `building` ~ ai to help humans advance
 
-`listening` ~ rivendell ambiance 
+`listening` ~ rivendell ambiance ✦ cyberpunk ✦ lofi
 
-`loving` ~ books, board games, & building 
+`loving` ~ books, board games, & building fun things 
 
-`reading` ~ prob tolkien ✦
+`reading` ~ tolkien ✦ sci fi ✦ fantasy
 
 </td>
 <td align="center" width="500">
@@ -52,9 +52,9 @@
 
 | | |
 |---|---|
-| 🤸‍♀️ | national champion gymnast |
-| ✈️ | flight attendant |
-| 🎮 | professional gamer |
+| 𓀤 | national champion gymnast |
+| ᯓ ✈︎ | flight attendant |
+| [+..••] | self proclaimed pro gamer |
 
 *every chapter led here* ₍ᐢ. .ᐢ₎
 
