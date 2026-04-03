@@ -76,9 +76,66 @@
 
 <div align="center">
 
-### ˚₊‧ find me ‧₊˚
+### °+· main project ·+°
 
+[**foreverbrowsing.com**](https://foreverbrowsing.com) — a browser agent that lives natively inside your browser
+
+</div>
+
+&nbsp;
+
+<div align="center">
+
+. &nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp; .
+
+</div>
+
+&nbsp;
+
+<div align="center">
+
+### °+· recently shipped ·+°
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="500">
+
+[**ralph-to-ralph**](https://github.com/namuh-eng/ralph-to-ralph)
+
+Autonomous product cloning loop — give it any URL, it inspects, builds, tests, and deploys a working clone
+
+</td>
+<td align="center" width="500">
+
+[**ralph-to-ralph-resend-demo**](https://github.com/namuh-eng/ralph-to-ralph-resend-demo)
+
+Demo built with ralph-to-ralph
+
+</td>
+</tr>
+</table>
+
+&nbsp;
+
+<div align="center">
+
+. &nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ˚ &nbsp;&nbsp;&nbsp; .
+
+</div>
+
+&nbsp;
+
+<div align="center">
+
+### °+· reach me ·+°
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF5E6?style=flat-square&logo=linkedin&logoColor=D4779B)](https://www.linkedin.com/in/ashleyha/)
+&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/@ashleybchae-FFF5E6?style=flat-square&logo=x&logoColor=D4779B)](https://x.com/ashleybchae)
+&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-FFF5E6?style=flat-square&logo=instagram&logoColor=D4779B)](https://instagram.com/ashleybchae)
 &nbsp;&nbsp;
 [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee%20☕-FFE4F0?style=flat-square&logo=buymeacoffee&logoColor=C49A6C)](https://buymeacoffee.com/ashleyha)
 
