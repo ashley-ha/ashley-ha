@@ -102,16 +102,64 @@
 <tr>
 <td align="center" width="500">
 
+[**Forever Agent**](https://chromewebstore.google.com/detail/forever-agent/jnjepbbhbnfjckgfloodkjhangmjndmd)
+
+Live Chrome Web Store extension for Ever — a browser agent that lives natively inside Chrome
+
+</td>
+<td align="center" width="500">
+
 [**ralph-to-ralph**](https://github.com/namuh-eng/ralph-to-ralph)
 
 Autonomous product cloning loop — give it any URL, it inspects, builds, tests, and deploys a working clone
 
 </td>
+</tr>
+<tr>
 <td align="center" width="500">
 
-[**ralph-to-ralph-resend-demo**](https://github.com/namuh-eng/ralph-to-ralph-resend-demo)
+[**OpenSend**](https://github.com/namuh-eng/opensend)
 
-Demo built with ralph-to-ralph
+Open source Resend alternative — emails, domains, broadcasts, and sending infra in one self-hostable product
+
+</td>
+<td align="center" width="500">
+
+[**OpenDocs**](https://github.com/namuh-eng/opendocs)
+
+Open source Mintlify clone — fast documentation sites with modern docs tooling
+
+</td>
+</tr>
+<tr>
+<td align="center" width="500">
+
+[**Exponential**](https://github.com/namuh-eng/exponential)
+
+Open source Linear and Jira alternative — issue tracking, projects, and self-hosted product workflow
+
+</td>
+<td align="center" width="500">
+
+[**OpenGitHub**](https://github.com/namuh-eng/opengithub)
+
+GitHub alternative being built through ralph-to-ralph as another product-cloning benchmark
+
+</td>
+</tr>
+<tr>
+<td align="center" width="500">
+
+[**OpenBrand**](https://github.com/namuh-eng/openbrand)
+
+Open source Brandfetch alternative for brand assets and company identity data
+
+</td>
+<td align="center" width="500">
+
+[**EverBrowser**](https://github.com/namuh-eng/everbrowser)
+
+Community-shared skill recipes for the Ever CLI and browser-agent workflows
 
 </td>
 </tr>
