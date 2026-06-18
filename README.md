@@ -102,7 +102,7 @@
 <tr>
 <td align="center" width="500">
 
-[**Forever Agent**](https://chromewebstore.google.com/detail/forever-agent/jnjepbbhbnfjckgfloodkjhangmjndmd)
+[**Forever Agent**](https://chromewebstore.google.com/detail/ever/codfpjgkcdackkjhjhfefmfbckijjjnf)
 
 Live Chrome Web Store extension for Ever — a browser agent that lives natively inside Chrome
 
