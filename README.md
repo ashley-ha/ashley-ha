@@ -8,6 +8,7 @@
 
 *building ai to help humans,*
 
+at primitive.dev 
 
 ₊✩‧₊˚౨ৎ˚₊✩‧₊
 
