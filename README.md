@@ -78,7 +78,7 @@ at [**primitive.dev**](https://primitive.dev)
 
 ### °+· main project ·+°
 
-[**foreverbrowsing.com**](https://foreverbrowsing.com) — a browser agent that lives natively inside your browser
+[**primitive.dev**](https://primitive.dev)
 
 </div>
 
