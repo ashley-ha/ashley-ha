@@ -8,7 +8,7 @@
 
 *building ai to help humans,*
 
-at primitive.dev 
+at [**primitive.dev**](https://primitive.dev)
 
 ₊✩‧₊˚౨ৎ˚₊✩‧₊
 
