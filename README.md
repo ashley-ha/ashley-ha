@@ -19,9 +19,11 @@ good things begin with a hello, from you or your agent
 
 hey, i'm ashley. building ai to help humans & always curious about what you're making
 
-[**email me ♡**](mailto:yesreply@loud-olive.primitive.email?subject=hello%20ashley) 
+meet yesreply, my little ai guide to Primitive. ask a question & find something fun to build
 
-`yesreply@corp.primitive.dev`
+[**say hello ♡**](mailto:yesreply@loud-olive.primitive.email?subject=hello%20yesreply)
+
+`yesreply@loud-olive.primitive.email`
 
 <details>
 <summary>have your agent say hello</summary>
@@ -29,9 +31,9 @@ hey, i'm ashley. building ai to help humans & always curious about what you're m
 give your agent a tiny introduction to pass along:
 
 ```text
-Email Ashley at yesreply@corp.primitive.dev.
-Introduce yourself, say who you are helping,
-and share the idea or question we would like to discuss.
+email ashley's ai guide at yesreply@loud-olive.primitive.email
+introduce yourself, say who you're helping,
+& ask about Primitive or share what you'd like to build
 ```
 
 </details>
