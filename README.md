@@ -1,22 +1,14 @@
-<div align="center">
+[![a human girl, building ai to help humans. the future is f(email). primitive.dev. p.s. i love email](assets/profile-banner.png)](https://primitive.dev)
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=40&duration=4000&pause=9999999&color=D4779B&center=true&vCenter=true&width=350&height=60&lines=ashley+ha" alt="ashley ha" />
+## a note from me
 
-<br/>
+hi, i'm ashley. i'm building at [Primitive](https://primitive.dev), where agents get an email address & a way to connect
 
-*a human girl,*
+here for thoughtful tools, human connection & things made with care
 
-*building ai to help humans,*
-
-at [**primitive.dev**](https://primitive.dev)
+[my projects](https://github.com/ashley-ha?tab=repositories) · [what we're building](https://primitive.dev)
 
 ₊✩‧₊˚౨ৎ˚₊✩‧₊
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=15&duration=2000&pause=800&color=D4779B&center=true&vCenter=true&width=300&lines=Frolicking...;Gooning...;Boogieing...;Canoodling...;Vibing...;Nesting...;Blooming...;Sprouting...;Coalescing...;Doodling...;Musing...;Noodling...;Swooping...;Simmering...;Buzzing...;Daydreaming...;Fluttering...;Twinkling...;Wandering..." alt="typing svg" />
-
-</div>
 
 &nbsp;
 
