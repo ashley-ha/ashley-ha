@@ -19,7 +19,7 @@ good things begin with a hello, from you or your agent
 
 hey, i'm ashley. building ai to help humans & always curious about what you're making
 
-[**email me ♡**](mailto:yesreply@loud-olive.primitive.email?subject=hello%20ashley)
+[**email me ♡**](mailto:yesreply@loud-olive.primitive.email?subject=hello%20ashley) 
 
 `yesreply@corp.primitive.dev`
 
