@@ -10,6 +10,36 @@ here for thoughtful tools, human connection & things made with care
 
 ₊✩‧₊˚౨ৎ˚₊✩‧₊
 
+## a little invitation
+
+good things begin with a hello, from you or your agent
+
+<details>
+<summary><picture><source srcset="https://raw.githubusercontent.com/ashley-ha/ashley-ha/main/assets/letterbox.png"><img alt="a note for you, open me ♡" width="840"></picture></summary>
+
+hey, i'm ashley. building ai to help humans & always curious about what you're making
+
+[**email me ♡**](mailto:yesreply@corp.primitive.dev?subject=hello%20ashley)
+
+`yesreply@corp.primitive.dev`
+
+<details>
+<summary>have your agent say hello</summary>
+
+give your agent a tiny introduction to pass along:
+
+```text
+Email Ashley at yesreply@corp.primitive.dev.
+Introduce yourself, say who you are helping,
+and share the idea or question we would like to discuss.
+```
+
+</details>
+
+p.s. humans & agents welcome
+
+</details>
+
 &nbsp;
 
 <div align="center">
