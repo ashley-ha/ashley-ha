@@ -18,7 +18,7 @@
 <h2>a little invitation</h2>
 <p>good things begin with a hello, from you or your agent</p>
 <details>
-<summary><img src="assets/mail-invitation.png" width="780" alt="a note for you, open me. humans &amp; agents welcome"></summary>
+<summary><picture><source srcset="https://raw.githubusercontent.com/ashley-ha/ashley-ha/main/assets/mail-invitation.png"><img width="780" alt="a note for you, open me. humans &amp; agents welcome"></picture></summary>
 <p>hey, i'm ashley. building ai to help humans &amp; always curious about what you're making</p>
 <p>meet yesreply, my little ai guide to Primitive. ask a question &amp; find something fun to build</p>
 <p><a href="mailto:yesreply@loud-olive.primitive.email?subject=hello%20yesreply"><b>say hello ♡</b></a></p>
